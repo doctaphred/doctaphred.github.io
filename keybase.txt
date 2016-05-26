@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/doctaphred
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://doctaphred.github.io
+  * I am doctaphred (https://keybase.io/doctaphred) on keybase.
+  * I have a public key with fingerprint A2A1 4E61 BBA9 06CB EE09  A712 84BE D09B 5EF5 A533
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010135c891cedcc1a9854322da2eca7dc5398200ec2c2332c44339659ab12f7503150a",
+            "fingerprint": "a2a14e61bba906cbee09a71284bed09b5ef5a533",
+            "host": "keybase.io",
+            "key_id": "84bed09b5ef5a533",
+            "kid": "010135c891cedcc1a9854322da2eca7dc5398200ec2c2332c44339659ab12f7503150a",
+            "uid": "1a5da1b540b7eb85416bea0889199119",
+            "username": "doctaphred"
+        },
+        "service": {
+            "hostname": "doctaphred.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1463602440,
+    "expire_in": 157680000,
+    "prev": "90fe211b14a4949ff92196b885cbab7f5602f10bb4fc8f5ff40937d5d52e3fc1",
+    "seqno": 14,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.53
+Comment: https://keybase.io/crypto
+
+yMInAnicrZJdSBVBGIaPf2liZWVkP/SzGgSKzezunLNz6KISFX8iojJL8zgzO+tZ
+tN3Tnj0nxSQCiyBDL6IoCEuwiEKthEAkUutCJJCKCMMbL4oCAxHCQqlZq6u6bG6G
++Xjf53u/j3m+IsmXnnCx9N6OybytvQnjw90x39HdL9NaJGrrzVKwRWrgSxdv1HnU
+DTWYuhSUAARQQUzDkHGdMUiwhlRFlnUic0YCOkMK1mQAOJOZrCgyU1VFwX6ECYWy
+EUBAgQgQKV8yTKueOxHHtFyBJTKBKvdDSgkGfkY5B5gEoKyplOsAU8QNRJCiCGPY
+jnoOEY6SKC8wbVETj9BSvH/o/3Pu2BIOEqQTSJEKaIBTgYJ+ygnQBB9jCLEnjHLH
+Iie5UOs2c0kk7HBdas2XRD1uMu6t1pvlL01BvemGY/TXZBHHdm1mNwpF2HUj0aBH
+cJsjnuU0p6HfsBA1LV1sVDji3ImatiUFoVAy1/ToUPUrfiCrKsiXeFPEdHjI9BQo
+4NeAOF4fHhdIDAwuQ0ihSlSsYsPAMsR+qmmIUUIDBhIUAwJKVYNpBjIMFWAloCMd
+yVwxGJS88U5ZttdS5CT1ghk16y3ixhwutY48q0n2JaT7lqUkel/Nl748888HvGKl
+/ii+OrJrvDn5ZG/1htbz31LfZk30tOsHP73OQ9/mM560ZT6EFxL3zB0uLK7uerBQ
+FzmrtB0/v29hfvRedTF6P3d3Y+edvMnunG13q69fvr3hbdm1aalsVl0xmngoe1PW
+Ip2cOlbeP3Tuc0npmjNTuSNrcx4pa5bvm5so9rVshzUfMt5VDFZdzerpnKnLP1CF
+bkx/70gikaLTKZ/mxz8O1Q7TryC2v6OiVTnxpvJ4Wu6qeO0MtYK9mc1qX+HmgluV
+s91TU8bj6bKBlbmpTava4mNH0s1X5RWFl5y6Qnt10dMtae177w91zY3tKurLXrf9
+xUCJb33KYE3fl/C1m/3OYurO0o8/AdvrOcY=
+=Lwrf
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/doctaphred
+
+==================================================================
